@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653761237 source:c:\users\eliziajanuariodasilv\documents\a.uezo\functionsmath\functionsmath.c
+	"FunctionsMath.h"
+
+1653760748 source:c:\users\eliziajanuariodasilv\documents\a.uezo\functionsmath\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+	"FunctionsMath.h"
+
+1653759177 c:\users\eliziajanuariodasilv\documents\a.uezo\functionsmath\functionsmath.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
